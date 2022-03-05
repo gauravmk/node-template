@@ -2,7 +2,7 @@ import React from 'react';
 import {render} from 'react-dom';
 
 const App = () => {
-  return <div>Test</div>;
+  return <div>Test2</div>;
 };
 
 const root = document.getElementById('root');
