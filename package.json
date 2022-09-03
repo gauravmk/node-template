@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "local": "webpack serve",
-    "build": "webpack build"
+    "build": "webpack build && exit 1"
   },
   "author": "Gaurav Kulkarni",
   "license": "MIT",
