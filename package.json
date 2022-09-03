@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local": "webpack serve"
+    "local": "webpack serve",
+    "build": "webpack build"
   },
   "author": "Gaurav Kulkarni",
   "license": "MIT",
